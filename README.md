@@ -3,6 +3,14 @@
 ## Introduction  ▶️:
 The following is a java based project that performs regex validation against ipv4 address to ensure that they are valid IP address. Inspired by HackerRank Java Regex challange.
 
+## HackerRank Problem :duck:
+Write a class called MyRegex which will contain a string pattern. You need to write a regular expression and assign it to the pattern such that it can be used to validate an IP address.
+
+### HackerRank Level:rabbit:
+```diff
+- Medium
+```
+
 ## Set-up 💾
 Import project as a java based application
 
